@@ -11,3 +11,5 @@ lista de actividades del curso
 
 
 :paperclip:clase 2: 23.01.2020
+
++Primera Tarea del curso

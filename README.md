@@ -16,3 +16,7 @@ lista de actividades del curso
 + la fecha de entrega sera el dia 28.01☺a las 23 horas 
 + clase 3:29.01.20 (*script 1_*)
 +instalar paqueteria para R
+
++ :paperclip: clase 4:30.01.2020 (*script 2*)
++ Importar base de datos de execel en formato *.csv*
++ utilizar el comando *read.csv*

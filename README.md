@@ -20,3 +20,6 @@ lista de actividades del curso
 + :paperclip: clase 4:30.01.2020 (*script 2*)
 + Importar base de datos de execel en formato *.csv*
 + utilizar el comando *read.csv*
+
++ paperclip: Clase 13: Pruebas de T 
++ BD Vivero prueba de t de dos muestras independientes 
